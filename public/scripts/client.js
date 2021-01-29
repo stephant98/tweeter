@@ -71,7 +71,7 @@ $(document).ready(function() {
     const userInput = postArea.serialize();
     
     if (postArea.val().length < 140 && postArea.val().length > 0) {
-      
+      $('.counter').val('140')
       $.ajax({
         url: "/tweets/",
         method: "POST",
