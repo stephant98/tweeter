@@ -15,3 +15,7 @@ This repository is the starter code for the project: Students will fork and clon
 
 - Express
 - Node 5.10.x or above
+
+## Compatibility
+
+Tweeter is compatible with mobile devices like smartphones and tablets, and also with desktops or laptops, providing each these devices a friendly interface to interact with.

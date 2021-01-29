@@ -1,0 +1,35 @@
+nav {
+  height: 120px;
+  width: 100%;
+  background-color: #4056A1;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  padding: 1.5em;
+  justify-content: space-between;
+  top: 0;
+  position: fixed;
+
+}
+
+.new-font-span {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.write-button {
+  border: none;
+  background-color: #4056A1;
+  color: #ffffff;
+}
+
+div button {
+  background-color: #4056A1;
+  color: #ffffff;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+

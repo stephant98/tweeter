@@ -1,0 +1,97 @@
+.button-lettercount {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Bungee', sans-serif;
+}
+
+section.new-tweet {
+  width: 100%;
+}
+
+textarea {
+  height: 2em;
+  margin-bottom: 10px;
+  border-bottom: 5px solid #545149;
+  border-top: hidden;
+  border-left: hidden;
+  border-right: hidden;
+  background-color: #f4f1ec;
+  resize: none;
+}
+
+textarea:focus {
+  outline: none;
+}
+
+.negative {
+  color: red;
+}
+
+.tweet-header {
+  margin-top: 1em;
+  background-color: #f4f1ec;
+  background-image: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 3em;
+}
+
+article {
+  margin-top: 1em;
+  border-style: solid;
+  padding: 0.5em;
+  
+}
+
+article:hover {
+  box-shadow:5px 10px #545149;
+}
+
+
+article:hover  .actions {
+  color: #4056A1;
+}
+
+
+footer {
+  font-size: 20px;
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.tweet-text {
+  border-bottom: 5px solid;
+  padding-bottom: 1em;
+  padding-left: 0.5em;
+}
+
+.faded-username {
+  opacity: 0.4;
+}
+
+.emoji-name {
+  margin: 0;
+  display: flex;
+  align-items: center;
+}
+
+.tweet-valid {
+  display: none;
+  color: red;
+  border: 5px solid red;
+  padding-left: 32%;
+  background-color: lightpink;
+  margin-top: 24px;
+  margin-bottom: 24px;
+
+}
+
+
+article:hover  .actions {
+  color: #4056A1;
+
+}
+
