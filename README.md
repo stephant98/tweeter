@@ -19,3 +19,9 @@ This repository is the starter code for the project: Students will fork and clon
 ## Compatibility
 
 Tweeter is compatible with mobile devices like smartphones and tablets, and also with desktops or laptops, providing each these devices a friendly interface to interact with.
+
+## Screenshots
+
+!["Screenshot of UI on mobile"](https://github.com/stephant98/tweeter/blob/master/docs-images/First-view.png?raw=true)
+!["Screenshot of UI on desktops"](https://github.com/stephant98/tweeter/blob/master/docs-images/desktop-ui.png?raw=true)
+!["Screenshot when hovering over tweets"](https://github.com/stephant98/tweeter/blob/master/docs-images/tweet-hovering.png?raw=true)
